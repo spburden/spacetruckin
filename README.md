@@ -7,6 +7,8 @@
 ## Description
 In this game, the player travels a star map that is randomly populated with planets of differing trade classifications, buys and sells goods, while maintaining a positive credit balance and a non-empty fuel tank. A humble homage to Traveller, Elite, Tai-Pan, and Firefly/Serenity. And there's the obvious Deep Purple reference ('Silver Machine' was another possible name choice).
 
+<img src="Screenshot.png" alt="A screenshot of the site">
+
 ## User Stories
 
 * As a player I would like to see a list of randomly generated planets with trade specialties, population type, and trade goods that are available for sale.
