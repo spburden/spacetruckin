@@ -7,6 +7,8 @@
 ## Description
 In this game, the player travels a star map that is randomly populated with planets of differing trade classifications, buys and sells goods, while maintaining a positive credit balance and a non-empty fuel tank. A humble homage to Traveller, Elite, Tai-Pan, and Firefly/Serenity. And there's the obvious Deep Purple reference ('Silver Machine' was another possible name choice).
 
+[Click here to view live](https://shrouded-garden-90623.herokuapp.com/)
+
 <img src="Screenshot.png" alt="A screenshot of the site">
 
 ## User Stories
@@ -32,8 +34,6 @@ See the SPECIFICATIONS.md file.
 * _Import the database into mySQL_
 * _In Terminal or Command Prompt go to the /web directory and enter the command: php -S localhost:8000_
 * _To browse go to http://localhost:8000/ in the browser of your choosing_
-
-This game is also hosted on Heroku: https://shrouded-garden-90623.herokuapp.com
 
 ## Known Bugs
 _There are no known bugs with this application._
